@@ -1,6 +1,6 @@
 # n8n Templates Collection
 
-Welcome to a comprehensive collection of n8n automation templates! This repository contains over 300 ready-to-use templates covering various domains and applications.
+Welcome to a comprehensive collection of n8n automation templates! This repository contains over 2000 ready-to-use templates covering various domains and applications.
 
 ## 📚 Documentation and Guides
 
